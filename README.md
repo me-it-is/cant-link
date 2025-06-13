@@ -1,8 +1,8 @@
 # cant-link
-To test clone this repo [WPILib](https://github.com/me-it-is/allwpilib)
-then enter the devshell with flake.nix
-cd to the project directory and run ./gradlew build
-after the build finishes and the tests start you should get this error
+-To test clone this [repo](https://github.com/me-it-is/allwpilib)
+-enter the devshell with flake.nix
+-cd to the project directory and run ./gradlew build
+-after the build finishes and the tests start you should get this error
 ```
 AprilTagDetectorTest > initializationError FAILED
     org.opentest4j.AssertionFailedError
